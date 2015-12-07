@@ -1,0 +1,1 @@
+Esto es una prueba de Selenium usado para testear el login en la popular web de compras Amazon.es
